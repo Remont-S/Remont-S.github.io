@@ -195,6 +195,7 @@ header .phone-number h2{
     border-radius: 30px;
     padding: 8px;
     cursor: default;
+    margin: 10px 0;
 }
 
 .intro-content .intro-text .blocks .block:hover{
