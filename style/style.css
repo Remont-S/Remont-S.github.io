@@ -115,10 +115,10 @@ header .phone-number h2{
     font-size: 20px;
     color: black;
     font-weight: bolder;
+    transition: color 0.18s;
 }
 
 .header-menu div.menu a:hover{
-    transition: color 0.18s;
     color: rgb(255, 213, 0);
     border-bottom: 2.5px solid black;
 }
@@ -594,10 +594,10 @@ footer .phone-number{
     font-size: 20px;
     color: #e8e8e8;
     font-weight: bolder;
+    transition: color 0.18s;
 }
 
 .footer-menu div.menu a:hover{
-    transition: color 0.18s;
     color: rgb(255, 213, 0);
     border-bottom: 2.5px solid white;
 }
